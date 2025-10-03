@@ -63,7 +63,7 @@ export const PROJECTS_DATA = [
   {
     title: "Wild Oasis Customer",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "A customer-facing web application for a travel agency. It allows users to browse and book travel packages, view their bookings, and manage their profiles.",
     tags: ["React", "Next.js", "TypeScript", "Tailwind", "Supabase"],
     imageUrl: wildOasisCustomerImg,
     githubUrl: "https://github.com/Nabeeeh/wild-oasis-customer",
@@ -72,7 +72,7 @@ export const PROJECTS_DATA = [
   {
     title: "Wild Oasis Dashboard",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "An admin dashboard for a travel agency. It allows admins to manage travel packages, view bookings, and generate reports.",
     tags: ["React", "styled-components", "TypeScript", "React-Query"],
     imageUrl: theWildOasisDashboardImg,
     githubUrl: "https://github.com/Nabeeeh/the-wild-oasis",
@@ -81,7 +81,7 @@ export const PROJECTS_DATA = [
   {
     title: "Fresh Cart",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A simple e-commerce web application that allows users to browse products, add them to their cart, and checkout.",
     tags: ["React", "Bootstrap", "Axios", "React-Query", "REST API"],
     imageUrl: freshCartImg,
     githubUrl: "https://github.com/Nabeeeh/fresh-cart",
