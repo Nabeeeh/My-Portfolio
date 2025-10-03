@@ -63,7 +63,7 @@ export const PROJECTS_DATA = [
   {
     title: "Wild Oasis Customer",
     description:
-      "A customer-facing web application for a travel agency. It allows users to browse and book travel packages, view their bookings, and manage their profiles.",
+      "A customer-facing web application for a travel agency. It allows users to browse and book travel packages, view their bookings.",
     tags: ["React", "Next.js", "TypeScript", "Tailwind", "Supabase"],
     imageUrl: wildOasisCustomerImg,
     githubUrl: "https://github.com/Nabeeeh/wild-oasis-customer",
